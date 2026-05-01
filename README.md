@@ -39,10 +39,9 @@
 
 ---
 
-## 📊 GitHub Stats
+## 👀 Profile Views
 
-![Pinki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=km-pinki-dubey&show_icons=true&theme=radical)
-
+![Visitor Count](https://komarev.com/ghpvc/?username=km-pinki-dubey&color=d4607a&style=for-the-badge&label=PROFILE+VIEWS)
 ---
 
 ## 📫 Connect with Me
