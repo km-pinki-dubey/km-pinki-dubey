@@ -1,7 +1,7 @@
 # Hi, I'm Km Pinki Dubey 👋
 
 🧑‍💻 Web Developer with **3+ years** of experience building web applications  
-🏢 Previously at **Parken Solution Pvt Ltd** (2022–2025)  
+🏢 Previously works at **Parken Solution Pvt Ltd** (2022–2025)  
 📍 India | 📧 km.dubeypinki@gmail.com
 
 ---
